@@ -12,7 +12,7 @@ when a user fills the fome, the color will change as shown below.
 
 if the input is invalid the outline color will be red as shown below.
 
-![my_Image](./Images/wrong.png.png)
+![my_Image](./Images/wrong.png)
 
 if all the fields are correct the outline color will turn into green 
 
