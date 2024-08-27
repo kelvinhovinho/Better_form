@@ -1,8 +1,8 @@
-#Better forms using HTML and CSS
+# Better forms using HTML and CSS
 I have done this mini project on how we can use 
 *valid and invalid* pseudo codes to have adifferent outline color when filling the form.
 
-##About the colors
+## About the colors
 
 By default the forms outline will have a hcl(203, 30%, 26%) color. 
 
